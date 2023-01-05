@@ -1,0 +1,22 @@
+{
+  "name": "vue-vscodedemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "pinia": "^2.0.28",
+    "vite": "^4.0.4",
+    "vite-plugin-pages": "^0.28.0",
+    "vue-router": "^4.1.6"
+  },
+  "dependencies": {
+    "vue": "^3.2.45"
+  }
+}
